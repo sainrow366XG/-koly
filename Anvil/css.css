@@ -1,0 +1,42 @@
+body{
+    background-attachment: fixed;
+    background-image: linear-gradient(
+        to bottom right, 
+        #00bfff 10%,
+        #ffffff, 
+        #00bfff 
+
+        );
+
+}
+header{
+    background-image: radial-gradient(
+        circle,
+        #ffffff 30%,
+        #00ffff ,
+        #00bfff 50%
+        ); 
+    height:200px ;
+    padding-top: 20px;
+    border: outset;
+    border-width: 5px;
+    border-color: black;
+
+}
+hgroup h1{
+    text-align: center;
+    text-shadow:15px 15px 10px black;
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 50px;
+    color: black;
+}
+
+div{
+   font-family: "Arial Black", Gadget, sans-serif;  
+   margin-left: 420px;
+   margin-right: 420px;
+  
+}
+h2{
+    color: #4682b4;
+}
