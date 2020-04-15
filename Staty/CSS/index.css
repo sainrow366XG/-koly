@@ -1,0 +1,26 @@
+body{
+    background-image: url('Obrazky/Sed.jpg');
+}
+h1{
+    height:150px ;
+    padding-top: 20px;
+    border: outset;
+    border-width: 5px;
+    border-color: black;
+    
+    text-align: center;
+    text-shadow:15px 15px 10px White;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 60px;
+    color: Black;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+li{
+    list-style: none;
+    text-align: center;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 25px;
+}
