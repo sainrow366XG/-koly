@@ -1,0 +1,75 @@
+body{
+    
+    padding-left: 10px;
+    padding-right: 10px;
+}
+h1{
+    background-color: red;
+    font-size: 50px;
+    border: solid;
+    border-width: 10px;
+    border-color: red;
+    margin-bottom: 60px;
+    text-align: center;
+}
+.hrac{
+    background-color: #808080;
+    display: flex;
+    border: solid;
+    border-width: 10px;
+    border-color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+
+}
+.hrac1,.hrac2{
+background-color: #add8e6;
+    border: solid;
+    border-width: 10px;
+    border-color: #add8e6;
+    flex:auto;
+    text-align: center;
+    font-size: 20px
+}
+.hod {
+    text-align: center;
+    flex: 1;
+    font-size: 30px;
+    color: black;
+}
+.hpole{
+    background-color: #808080;
+    border: solid;
+    border-width: 10px;
+    border-color: black;
+    margin-bottom: 50px;
+    
+}
+
+div{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-column-gap: 50px;
+    grid-row-gap: 10px;
+    padding: 10px;
+    border: solid;
+    border-width: 10px;
+    border-color: black;
+}
+p{
+    border: solid;
+    border-width: 5px;
+    border-color: #e6e6fa;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+}
+.pole2{
+    background-color: white;
+    margin-left: 50px;
+}
+.pole1{
+    background-color: white;
+    margin-left: 400px;
+}
